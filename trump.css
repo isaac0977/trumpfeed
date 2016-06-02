@@ -1,0 +1,38 @@
+
+body {
+	text-align: center;
+    width: 430px;
+}
+
+h1{
+	text-align: center;
+    font-family: 'Arvo', serif;
+    color: #4099FF;
+}
+
+#pause {
+    text-align: center;
+    font-family: 'Arvo', serif;
+    font-size: 15px;
+}
+
+#wrapper {
+	text-align: center;
+}
+#tweets {
+    width: 400px;
+    font-family: georgia;
+    font-size: 15px;
+    color: #333333;
+    padding: 10px;
+    text-align: center;
+}
+
+#tweets li {
+    margin: 0 auto 0px auto;
+    padding: 15px 0 15px 0;
+    border-top: 2px solid #4099FF;
+    border-left: 3px solid #4099FF;
+    box-shadow: 5px 5px 5px #888888;
+}
+
